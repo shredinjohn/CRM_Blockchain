@@ -20,23 +20,24 @@ This project (Criminal Record Database Management) helps us to create an Applica
 ## Tool we are going to use 🪛
 
 🖼️ FrontEnd - ReactJS and NextJS
-🔩 BackEnd - Web3js , Solidity , ExpressJs and NodeJs
+🔩 BackEnd - Web3js , Solidity , ExpressJs and NodeJs , MongoDB
 
 
 ## Teammates Roles 
 ### Front End 🎨 ( ReactJs and NextJs)
 
 - Vignesh M ( 20MIC0114 )
-⭐ Works on UI/UX Design and Front End and finding the requirements of elements required in each page.
+⭐ Works on UI/UX Design and Front End 
 
 ### Back End 🔩 ( Web3js , Solidity , ExpressJs and NodeJs )
 - Sriram ( 20MIC0159 ) 
-⭐ Works on ExpressJs and NodeJs primarily for connecting to backend and executing commands on the blockchain network
+⭐ Works largely with ExpressJs and NodeJs for connecting to the backend and performing commands on the blockchain network, as well as constructing database structures with MongoDB
 
 - Joseph John Philip ( 20MIC0140 )
 ⭐ Works on Refining the Overall Design and implementing the smart contracts on the blockchain network (🪙 Ethereum )
 
 
 ## [Reference Paper Link](https://www.researchgate.net/publication/329489346_CRAB_Blockchain_Based_Criminal_Record_Management_System#:~:text=By%20incorporating%20criminal%20records%20in,enables%20the%20decentralization%20of%20data.)
+
 
 
