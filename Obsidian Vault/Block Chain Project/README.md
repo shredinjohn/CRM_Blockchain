@@ -27,7 +27,7 @@ This project (Criminal Record Database Management) helps us to create an Applica
 ### Front End 🎨 ( ReactJs and NextJs)
 
 - Vignesh M ( 20MIC0114 )
-⭐ Works on UI/UX Design and Front End 
+⭐ Works on UI/UX Design and Front End and finding the requirements of elements required in each page.
 
 ### Back End 🔩 ( Web3js , Solidity , ExpressJs and NodeJs )
 - Sriram ( 20MIC0159 ) 
