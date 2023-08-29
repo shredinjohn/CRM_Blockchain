@@ -36,12 +36,6 @@ This project (Criminal Record Database Management) helps us to create an Applica
 - Joseph John Philip ( 20MIC0140 )
 ⭐ Works on Refining the Overall Design and implementing the smart contracts on the blockchain network (🪙 Ethereum )
 
-
-## [Reference Paper Link](https://www.researchgate.net/publication/329489346_CRAB_Blockchain_Based_Criminal_Record_Management_System#:~:text=By%20incorporating%20criminal%20records%20in,enables%20the%20decentralization%20of%20data.)
-
-
-
-
 ## Requirements for the Site 
 
 ### Login Page 👤
@@ -54,4 +48,13 @@ This project (Criminal Record Database Management) helps us to create an Applica
 - Searching and finding case Details 
 - User Management
 
-All of these options are solely determined by the role of the individual who has signed in.
+All of these options are solely determined by the role of the individual who has signed in
+
+
+
+## [Reference Paper Link](https://www.researchgate.net/publication/329489346_CRAB_Blockchain_Based_Criminal_Record_Management_System#:~:text=By%20incorporating%20criminal%20records%20in,enables%20the%20decentralization%20of%20data.)
+
+
+
+
+.
