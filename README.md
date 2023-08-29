@@ -27,7 +27,7 @@ This project (Criminal Record Database Management) helps us to create an Applica
 ### Front End 🎨 ( ReactJs and NextJs)
 
 - Vignesh M ( 20MIC0114 )
-⭐ Works on UI/UX Design and Front End 
+⭐ Works on creating a modern and dynamic front-end for web application using  Next.js, React.js, and Tailwind CSS for UI/UX design
 
 ### Back End 🔩 ( Web3js , Solidity , ExpressJs and NodeJs )
 - Sriram ( 20MIC0159 ) 
@@ -49,6 +49,17 @@ This project (Criminal Record Database Management) helps us to create an Applica
 - User Management
 
 All of these options are solely determined by the role of the individual who has signed in
+
+### 🌿 Separate branch on GitHub repo
+
+A separate branch has been created on the repository to facilitate project flow management.
+
+| Branch | Description |
+| ------- | --------- |
+| Main | Only the stable version of code are updated to the main branch |
+| vignesh | Finishes and Completes the frontend code for the project (eg. Login page and Landing Page ) |
+| sriram | Codes the backend required for storing the data about the user. Quickly works on the backend begins as soon as the login page frontend finishes in the "vignesh" branch. In the meantime rest of the front end is refined in vignesh branch |
+| joseph (Team Leader)|  Solely works on blockchain development using Truffle, Web3Js and Solidity. Refines frontend and backend to maximize stability of the project  |
 
 
 
