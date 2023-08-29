@@ -41,3 +41,17 @@ This project (Criminal Record Database Management) helps us to create an Applica
 
 
 
+
+## Requirements for the Site 
+
+### Login Page 👤
+
+- Four Type of Users (Policeman , Judicary , Organization) . Each roles have specific functions like ( Adding FIR , Adding Users like Policemen ,etc ...)
+- User Name and Password 
+
+### DashBaord Page 🏠:
+- Filing FIR, Case 
+- Searching and finding case Details 
+- User Management
+
+All of these options are solely determined by the role of the individual who has signed in.
