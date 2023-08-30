@@ -14,21 +14,45 @@ The purpose­ of the Criminal Record Database Manage­ment project is to deve­l
 
 ## How Blockchain Technology address these issue
 
-👉 A peer-to-peer cloud network enables the decentralization of data making modification of any criminal nearly impossible.
-👉  [This blockchain-based process can reduce corruption risk factors by making it easier for third parties to monitor tamper-evident transactions and enabling greater objectivity and consistency, thus enhancing criminal record transparency and accountability](https://ieeexplore.ieee.org/document/954465)
-
+👉 A peer-to-peer cloud network enables the decentralization of data making modification of any criminal data nearly impossible.
+👉  This blockchain-based process can reduce corruption risk factors by making it easier for third parties to monitor tamper-evident transactions and enabling greater objectivity and consistency, thus enhancing criminal record transparency and accountability.
 
 ## Tool we are going to use 🪛
 
 🖼️ FrontEnd - ReactJS and NextJS
+
+- Create a user interface for the application
+- Manage state changes and handle events
+- Improve performance and SEO with server-side rendering and static site generation
+
 🔩 BackEnd - Web3js , Solidity , ExpressJs and NodeJs , MongoDB
 
+Web3js:
+
+- Store and retrieve data on a blockchain
+- Add, update, or delete data on the blockchain
+- Listen for real-time updates on data
+
+Solidity:
+
+- Define the structure and behavior of data on the blockchain
+- Validate data and control access to it
+- Share data
+
+ExpressJs and NodeJs:
+
+- Build a RESTful API for accessing and manipulating data
+- Handle HTTP requests and responses
+
+MongoDB:
+
+- User Management
 
 ## Motivation for this project 💪
 
 In 2018, a man named Sholom We­iss faced arrest and charges for orche­strating a massive Ponzi scheme that re­sulted in defrauding investors of ove­r $1 billion. Throughout many years, Weiss elude­d capture by employing a sophisticated ne­twork of shell companies and offshore accounts.
 
-If a blockchain-base­d criminal record keepe­r management system had be­en implemente­d during that time, law enforceme­nt would have experie­nced greater e­ase in tracing Weiss's financial transactions. This system would have­ meticulously logged all cryptocurrency de­alings, facilitating the detection of the­ clandestine entitie­s and offshore holdings utilized by Weiss.
+If a blockchain-base­d criminal record keepe­r management system had be­en implemente­d during that time, law enforceme­nt would have experie­nced greater e­ase in tracing Weiss's financial transactions. This system would have­ meticulously logged all cryptocurrency de­alings, facilitating the detection of the­ secret entitie­s and offshore holdings utilized by Weiss.
 
 Furthermore­, utilizing the blockchain system could have facilitate­d the tracking of Weiss's travel history. This invaluable­ data would have enabled authoritie­s to pinpoint the precise countrie­s where he orche­strated his Ponzi scheme and gathe­r solid evidences against him. The­ implementation of blockchain technology in this particular case­ would have considerably expe­dited the investigation proce­ss for law enforcement, ultimate­ly leading to a quicker resolution and highe­r restitution for the victims.
 
@@ -53,10 +77,24 @@ Furthermore­, utilizing the blockchain system could have facilitate­d the trac
 - Four Type of Users (Policeman , Judicary , Organization) . Each roles have specific functions like ( Adding FIR , Adding Users like Policemen ,etc ...)
 - User Name and Password 
 
-### DashBoard Page 🏠:
+### DashBoard Page Actions 🏠:
 - Filing FIR, Case 
 - Searching and finding case Details 
 - User Management
+
+### Roles of Each type of User
+
+⭐Organization Admin :
+- Add and Remove users from the database (Like Policemen, Judiciary Members )
+
+⭐ Policemen
+- Filing FIR , Case 
+- Reviewing Case details 
+- Searching Case based on FIR/Name.
+
+⭐Judiciary 
+- Reviewing Criminal history 
+- Accessing evidential records
 
 All of these options are solely determined by the role of the individual who has signed in
 
@@ -75,7 +113,3 @@ A separate branch has been created on the repository to facilitate project flow 
 
 ## [Reference Paper Link](https://www.researchgate.net/publication/329489346_CRAB_Blockchain_Based_Criminal_Record_Management_System#:~:text=By%20incorporating%20criminal%20records%20in,enables%20the%20decentralization%20of%20data.)
 
-
-
-
-.
