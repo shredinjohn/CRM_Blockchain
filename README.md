@@ -75,7 +75,3 @@ A separate branch has been created on the repository to facilitate project flow 
 
 ## [Reference Paper Link](https://www.researchgate.net/publication/329489346_CRAB_Blockchain_Based_Criminal_Record_Management_System#:~:text=By%20incorporating%20criminal%20records%20in,enables%20the%20decentralization%20of%20data.)
 
-
-
-
-.
