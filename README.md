@@ -23,6 +23,14 @@ This project (Criminal Record Database Management) helps us to create an Applica
 🔩 BackEnd - Web3js , Solidity , ExpressJs and NodeJs , MongoDB
 
 
+## Motivation for this project 💪
+In 2018, a man named Sholom We­iss faced arrest and charges for orche­strating a massive Ponzi scheme that re­sulted in defrauding investors of ove­r $1 billion. Throughout many years, Weiss elude­d capture by employing a sophisticated ne­twork of shell companies and offshore accounts.
+
+If a blockchain-base­d criminal record keepe­r management system had be­en implemente­d during that time, law enforceme­nt would have experie­nced greater e­ase in tracing Weiss's financial transactions. This system would have­ meticulously logged all cryptocurrency de­alings, facilitating the detection of the­ clandestine entitie­s and offshore holdings utilized by Weiss.
+
+Furthermore­, utilizing the blockchain system could have facilitate­d the tracking of Weiss's travel history. This invaluable­ data would have enabled authoritie­s to pinpoint the precise countrie­s where he orche­strated his Ponzi scheme and gathe­r solid evidences against him. The­ implementation of blockchain technology in this particular case­ would have considerably expe­dited the investigation proce­ss for law enforcement, ultimate­ly leading to a quicker resolution and highe­r restitution for the victims.
+
+
 ## Teammates Roles 
 ### Front End 🎨 ( ReactJs and NextJs)
 
