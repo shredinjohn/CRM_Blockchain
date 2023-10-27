@@ -134,3 +134,11 @@ The dashboard page serves as the central hub for all user activity on the platfo
 To create a new campaign, users can click on the "Create Campaign" button, which will take them to a form where they can specify details such as the campaign name, description, target amount, and deadline. Users can also choose to add a custom image or video to showcase their campaign.
 
 Once the campaign is created, it will appear on the dashboard page, along with information such as the current amount raised, number of backers, and remaining days until the deadline.
+
+### Campaign Page 📢
+
+When users click on a specific campaign from the dashboard page, they are taken to the campaign page, which provides detailed information about the campaign. Here, users can find information such as the campaign goal, progress bar, and number of backers. There may also be a section for comments or updates from the campaign creator.
+
+One important feature of the campaign page is the ability for users to contribute to the campaign. Users can enter the amount they want to contribute, select a payment method (such as MetaMask), and confirm their transaction. Once the transaction is confirmed, the user's contribution will be added to the total amount raised, and they will receive a receipt for their contribution.
+
+All of these options are solely determined by the role of the individual who has signed in
