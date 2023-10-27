@@ -70,3 +70,38 @@ The potential impact of such a platform extends beyond just individual projects.
 
 Now imagine a future where every crowdfunding platform operates on blockchain principles. The possibilities are endless – a world where anyone can turn their vision into reality, regardless of their background or connections. A world where the next generation of game-changing products and services emerge from the grassroots level, thanks to the collective efforts of passionate individuals from all corners of the globe.
 
+## Teammates Roles 
+### Front End 🎨 ( ReactJs)
+
+### 1. Vignesh M (Front End Developer)
+
+As a front end developer, Vignesh's primary responsibility is to create a user-friendly and visually appealing interface for the crowdfunding platform. They will be working with React.js, a popular JavaScript library for building user interfaces, and Tailwind CSS, a utility-first CSS framework that allows developers to write cleaner and more modular code.
+
+Vignesh's role involves designing and implementing the layout, colors, typography, and visual elements of the platform. They will also ensure that the interface is responsive, accessible, and works seamlessly across different devices and browsers. To achieve this, Vignesh will work closely with the backend developers to integrate the front end with the backend functionality, ensuring a smooth user experience.
+
+Some of the key tasks that Vignesh will perform include:
+
+* Designing wireframes and mockups of the platform's UI
+* Writing clean and efficient React.js code
+* Creating reusable components and modules
+* Integrating third-party libraries and APIs
+* Optimizing the front end for performance and accessibility
+* Collaborating with the backend developers to ensure seamless integration
+
+#### 2. Sriram G (Back End Developer)
+
+As a back end developer, Sriram's main focus is on building the server-side logic, database integration, and API connectivity for the crowdfunding platform. They will be working with several cutting-edge technologies, including Thirdweb, Solidity, and Node.js.
+
+Sriram's role involves creating a robust and scalable backend architecture that can handle a large number of users, transactions, and data. They will design and implement the database schema, develop API endpoints, and integrate the front end with the backend. Sriram will also ensure that the platform is secure, reliable, and performs efficiently under heavy loads.
+
+Some of the key tasks that Sriram will perform include:
+
+* Setting up the development environment and toolchain
+* Defining the database schema and relationships
+* Writing Solidity smart contracts for the crowdfunding logic
+* Building API endpoints for funding, donations, and other features
+* Integrating the front end with the backend using RESTful APIs
+* Testing and debugging the backend code
+* Ensuring security and scalability of the platform
+
+
