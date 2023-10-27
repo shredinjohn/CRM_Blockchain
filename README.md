@@ -104,4 +104,18 @@ Some of the key tasks that Sriram will perform include:
 * Testing and debugging the backend code
 * Ensuring security and scalability of the platform
 
+#### 3. Joseph John Philip (Blockchain Developer)
+
+As a blockchain developer, Joseph's primary responsibility is to build and deploy smart contracts on the Ethereum blockchain that will power the crowdfunding platform. He will work closely with Sriram to ensure that the smart contracts interact seamlessly with the backend and front end.
+
+Joseph's role involves writing, testing, and deploying smart contracts that govern the rules and logic of the crowdfunding platform. They will use Solidity, a high-level programming language for developing smart contracts, to create these contracts. Joseph will also ensure that the smart contracts are secure, auditable, and transparent, and that they adhere to best practices for blockchain development.
+
+Some of the key tasks that Joseph will perform include:
+
+* Researching and analyzing existing crowdfunding platforms on blockchain
+* Designing and developing smart contracts for various features of the platform
+* Testing and debugging smart contracts using Truffle Suite and other tools
+* Deploying smart contracts on the Ethereum testnet and mainnet
+* Collaborating with Sriram to integrate smart contracts with the backend
+* Documenting and sharing knowledge with the team about blockchain development best practices
 
