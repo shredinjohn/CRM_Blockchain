@@ -151,3 +151,7 @@ A separate branch has been created on the repository to facilitate project flow 
 | Vignesh | Finishes and Completes the frontend code for the project (eg. Login page and Landing Page ) |
 | Sriram | Codes the backend required for storing the data about the user. Quickly works on the backend begins as soon as the login page frontend finishes in the "vignesh" branch. In the meantime rest of the front end is refined in vignesh branch |
 | Joseph (Team Leader)|  Solely works on blockchain development using Thirdweb. Refines frontend and backend to maximize stability of th e project  |
+
+
+## [Reference Paper Link 1 : Crowdfunding Platform Using Blockchain Technology](https://ijirt.org/master/publishedpaper/IJIRT155716_PAPER.pdf)
+## [Research Paper Link 2 :Evaluation of Blockchain-Based Crowdfunding Campaign Success Factors Based on VASMA-L Criteria Weighting Method ](https://www.mdpi.com/2076-3387/13/6/144)
