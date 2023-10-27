@@ -141,4 +141,13 @@ When users click on a specific campaign from the dashboard page, they are taken 
 
 One important feature of the campaign page is the ability for users to contribute to the campaign. Users can enter the amount they want to contribute, select a payment method (such as MetaMask), and confirm their transaction. Once the transaction is confirmed, the user's contribution will be added to the total amount raised, and they will receive a receipt for their contribution.
 
-All of these options are solely determined by the role of the individual who has signed in
+All of these options are solely determined by the role of the individual who has signed in.
+
+A separate branch has been created on the repository to facilitate project flow management.
+
+| Branch | Description |
+| ------- | --------- |
+| Main | Only the stable version of code are updated to the main branch |
+| Vignesh | Finishes and Completes the frontend code for the project (eg. Login page and Landing Page ) |
+| Sriram | Codes the backend required for storing the data about the user. Quickly works on the backend begins as soon as the login page frontend finishes in the "vignesh" branch. In the meantime rest of the front end is refined in vignesh branch |
+| Joseph (Team Leader)|  Solely works on blockchain development using Thirdweb. Refines frontend and backend to maximize stability of th e project  |
