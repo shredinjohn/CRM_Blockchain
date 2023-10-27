@@ -1,16 +1,16 @@
-# CrimeTracker : A comprehensive criminal records management system that helps law enforcement agencies streamline their data management processes and improve public safety.
+# Donaeth : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process."
 
 ### Introduction ✨✨
 
-According to the World Prison Brie­f, the global prison population excee­ds 10 million. In the United States alone­, there are ove­r 2 million inmates. However, a significant numbe­r of these incarcerate­d individuals have incorrect or inadequate­ criminal records. These flawe­d records impede the­ir chances of rehabilitation and successful inte­gration back into society. This raises the que­stion: How can we ensure re­liable, secure, and acce­ssible criminal records for all parties involve­d in the criminal justice system?
-The purpose­ of the Criminal Record Database Manage­ment project is to deve­lop an application that effectively manage­s and maintains consistent evidence­ pertaining to criminals.
+According to global statistics, the world of crowdfunding using blockchain has witnessed tremendous growth, with millions of contributors actively participating in diverse projects. However, concerns about trust, security, and transparency persist. In this context, we must address the question: How can we ensure a trustworthy and decentralized crowdfunding system using blockchain technology that benefits all stakeholders involved in the fundraising process?
 
 
-## Current Challenges and Limitations
+*Current Challenges and Limitations*
 
-- **Information Overload**: Large amount of data are generated and collected by various agencies and stockholders involved in the criminal justice system. This data may be in different formats, languages, and standards, and may be stored in different locations and systems. Managing and integrating this data can be difficult and time-consuming.
-- **Cost**: Creating and managing a database is quite costly. High cost software and hardware is required for the database. Moreover, there is a need to hire and train qualified staff to maintain and operate the database. Additionally, there may be other expenses related to security, backup, maintenance, upgrade, etc.
-- **Corruption and extortion**: There may be cases where some authorized or unauthorized personnel may manipulate or misuse the criminal records for their own benefit or agenda. For example, they may alter, delete, or fabricate records to favor or harm certain individuals or groups. They may also demand or accept bribes or favors in exchange for access or information on criminal records.
+- *Information Overload*: The world of blockchain-based crowdfunding faces a deluge of data, with a plethora of projects, contributors, and transactions in different formats and standards. These data streams are often scattered across various platforms and may present language and interoperability challenges, posing complexities in data management and analysis.
+- *Cost*: Implementing and maintaining a robust blockchain-based crowdfunding platform involves substantial expenses. This includes investments in blockchain technology, smart contract development, and security measures. Additionally, there is a need to onboard and educate personnel for effective platform operation. Ongoing costs related to security, auditing, and updates further add to the financial burden.
+- *Integrity and Fraud*: In the realm of blockchain-powered crowdfunding, there's a concern about data integrity and fraudulent activities. Malicious actors may attempt to manipulate or exploit the blockchain for personal gain. For instance, they could engage in fraudulent activities, misrepresent project information, or engage in deceptive practices. Ensuring the security and trustworthiness of the platform is critical.
+
 
 ## How Blockchain Technology address these issue
 
