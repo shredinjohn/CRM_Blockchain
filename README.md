@@ -119,3 +119,18 @@ Some of the key tasks that Joseph will perform include:
 * Collaborating with Sriram to integrate smart contracts with the backend
 * Documenting and sharing knowledge with the team about blockchain development best practices
 
+## Requirements for the Site 
+
+### Login Page 👤
+
+The login page is the first point of entry for users who want to interact with the crowdfunding platform. To ensure secure authentication, we require users to sign up for a MetaMask account, which is a popular browser extension that allows users to interact with the Ethereum blockchain.
+
+Once users have signed up for a MetaMask account, they can log in to the crowdfunding platform using their email address and password. Upon successful login, users will be redirected to the dashboard page, where they can view and manage their campaigns.
+
+### Dashboard Page Actions 🏠
+
+The dashboard page serves as the central hub for all user activity on the platform. From here, users can perform various actions related to their campaigns, such as creating a new campaign, viewing existing campaigns, and managing their contributions.
+
+To create a new campaign, users can click on the "Create Campaign" button, which will take them to a form where they can specify details such as the campaign name, description, target amount, and deadline. Users can also choose to add a custom image or video to showcase their campaign.
+
+Once the campaign is created, it will appear on the dashboard page, along with information such as the current amount raised, number of backers, and remaining days until the deadline.
