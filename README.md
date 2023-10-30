@@ -91,7 +91,7 @@ Now imagine a future where every crowdfunding platform operates on blockchain pr
   
 ## Blockchain Implementation ⛓️ <a name="block-implement" />
 
-![](System Architecture.png)
+![](/System_Architecture.png)
 
 1. **User logs in with Metamask 🦊**: The user logs in to the web system using their Metamask account.
 2. **: The Web System** :The web system uses thirdweb infrastructure to execute the smart contract on the Ethereum network
