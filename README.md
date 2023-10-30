@@ -95,6 +95,40 @@ The potential impact of such a platform extends beyond just individual projects.
 
 Now imagine a future where every crowdfunding platform operates on blockchain principles. The possibilities are endless – a world where anyone can turn their vision into reality, regardless of their background or connections. A world where the next generation of game-changing products and services emerge from the grassroots level, thanks to the collective efforts of passionate individuals from all corners of the globe.
 
+## Blockchain Implementation ⛓️ <a name="block-implement" />
+
+![](System Architecture.png)
+
+1. **User logs in with Metamask 🦊**: The user logs in to the web system using their Metamask account.
+2. **: The Web System** :The web system uses thirdweb infrastructure to execute the smart contract on the Ethereum network
+3. **System sends data back**: After executing smart contracts, the system sends data back to the user’s browser.
+4. **System uses external services** : System uses external services to retrieve data from the ethereum blockchain
+
+### Why the use of Thirdweb an appropriate choice for the project's objectives? 😄
+
+There are a number of reasons why Thirdweb is an appropriate choice for a crowdfunding blockchain app when compared to others that are present in the market. These include:
+
+- **Ease of use:** Thirdweb is a no-code platform, which means that users do not need any prior coding experience to build and deploy their crowdfunding app. This makes it accessible to a wider range of people, including those who are new to blockchain technology.
+
+- **Flexibility:** Thirdweb offers a wide range of features and customization options, which allows users to create a crowdfunding app that perfectly meets their needs. This includes the ability to set custom tokenomics, create different funding tiers, and reward backers with exclusive benefits.
+
+- **Security:** Thirdweb is built on top of the Ethereum blockchain, which is one of the most secure blockchain platforms in the world. This means that users can be confident that their crowdfunding app is safe and secure.
+ 
+- **Scalability:** Thirdweb is designed to be scalable, so it can handle a large number of transactions and users without any problems.
+
+Overall, Thirdweb is a powerful and versatile platform that is well-suited for building crowdfunding blockchain apps. It offers a wide range of features, security, scalability, and community support.
+
+Here is a comparison of Thirdweb to other popular crowdfunding blockchain platforms:
+
+|Platform|Ease of use|Flexibility|Security|Scalability|Community support|
+|---|---|---|---|---|---|
+|Thirdweb|No code|High|High|High|High|
+|Buildship|Low code|Medium|High|Medium|Medium|
+|DAOstack|Medium code|High|High|Medium|Low|
+|Aragon|Medium code|High|High|Medium|Low|
+
+As you can see, Thirdweb is one of the most user-friendly and flexible crowdfunding blockchain platforms available. It also offers a high level of security and scalability, as well as a strong community of developers and users.
+
 ## Explanation of Solidity Code <a name="sol"/>
 
 ```solidity
