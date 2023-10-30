@@ -1,3 +1,7 @@
+![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/487b6b7a-0ec1-4873-aaca-a1fc37b087d5)
+
+![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/5ef9a243-4b0b-46e0-abc3-f8c638d765b3)
+
 # Donaeth : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process.
 
 
@@ -70,6 +74,7 @@ Solidity is also responsible for enhancing the security of the platform and prev
 
 - **Transaction Validation**: Solidity enforces strict validation rules for every transaction on the platform. It verifies that contributors meet the criteria for participating in a campaign and ensures that transactions comply with the predefined rules. This validation mechanism prevents unauthorized or malicious contributions and maintains the integrity of the crowdfunding ecosystem.
   
+
 - **Tamper-Resistance**: Smart contracts written in Solidity are immutable once deployed. This means that once the rules are set, they cannot be altered by anyone, including the platform's administrators. This tamper-resistance prevents unauthorized changes to the crowdfunding rules, ensuring that the crowdfunding process remains fair and transparent.
 
 ## Motivation for this project 💪 <a name="motivation"/>
@@ -91,7 +96,8 @@ Now imagine a future where every crowdfunding platform operates on blockchain pr
   
 ## Blockchain Implementation ⛓️ <a name="block-implement" />
 
-![](/System_Architecture.png)
+![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/07f28b75-3e4b-4976-9991-e83aa3178c78)
+
 
 1. **User logs in with Metamask 🦊**: The user logs in to the web system using their Metamask account.
 2. **: The Web System** :The web system uses thirdweb infrastructure to execute the smart contract on the Ethereum network
@@ -283,7 +289,8 @@ Some of the key tasks that Joseph and Sriram will perform include:
 
 ## Workflow image showing the process of crowdfunding platform <a name="workflow"/>
 
-![](workflow.png)
+![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/237315cc-410d-4dbf-be60-21da89ce6a8b)
+
 
 ## Features of this project<a name="features"/>
 
