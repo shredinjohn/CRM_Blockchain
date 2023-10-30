@@ -15,6 +15,7 @@
 10. [Workflow image showing the process of crowdfunding platform](#workflow) 🆕
 11. [Requirements for the Site](#req) 🆕
 12. [References](#ref) 🆕
+
 ### Introduction ✨✨ <a  name="intro" />
 
 According to global statistics, the world of crowdfunding using blockchain has witnessed tremendous growth, with millions of contributors actively participating in diverse projects. However, concerns about trust, security, and transparency persist. In this context, we must address the question: How can we ensure a trustworthy and decentralized crowdfunding system using blockchain technology that benefits all stakeholders involved in the fundraising process?
@@ -90,7 +91,7 @@ Now imagine a future where every crowdfunding platform operates on blockchain pr
   
 ## Blockchain Implementation ⛓️ <a name="block-implement" />
 
-/image
+![](System Architecture.png)
 
 1. **User logs in with Metamask 🦊**: The user logs in to the web system using their Metamask account.
 2. **: The Web System** :The web system uses thirdweb infrastructure to execute the smart contract on the Ethereum network
@@ -282,7 +283,8 @@ Some of the key tasks that Joseph and Sriram will perform include:
 
 ## Workflow image showing the process of crowdfunding platform <a name="workflow"/>
 
-/image
+![](workflow.png)
+
 ## Features of this project<a name="features"/>
 
 - **Create Campaigns**: Users can easily create campaigns and provide detailed descriptions about their projects, including goals, deadlines, and any additional information they deem necessary.
