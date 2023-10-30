@@ -320,15 +320,10 @@ A separate branch has been created on the repository to facilitate project flow 
 
   
 | Branch | Description |
-
 | ------- | --------- |
-
 | Main | Only the stable version of code are updated to the main branch |
-
 | Vignesh | Finishes and Completes the frontend code for the project (eg. Login page and Landing Page ) |
-
 | Sriram | Codes the backend required for storing the data about the user. Quickly works on the backend begins as soon as the login page frontend finishes in the "vignesh" branch. In the meantime rest of the front end is refined in vignesh branch |
-
 | Joseph (Team Leader)|  Solely works on blockchain development using Thirdweb. Refines frontend and backend to maximize stability of the project  |
 
   
