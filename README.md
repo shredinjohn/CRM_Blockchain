@@ -97,98 +97,72 @@ Now imagine a future where every crowdfunding platform operates on blockchain pr
 
   
 
-## Teammates Roles
+### Literature Survey 📄<a name="lit"/>
 
-### Front End 🎨 ( ReactJs)
+|Sl.no|Title|Description|How this survey will be used for the project|
+|---|---|---|---|
+|1.|Crowdfunding Using Blockchain Technology<br><br>[https://ijirt.org/master/publishedpaper/IJIRT158590_PAPER.pdf](https://ijirt.org/master/publishedpaper/IJIRT158590_PAPER.pdf)|- Crowdfunding is a new financial system that is innovative yet disruptive.<br><br>- It is a low-cost way of accessing capital, which increases the potential audience for ideas and ventures.<br><br>- Crowdfunding represents an alternative way of funding compared to traditional borrowing.|This paper will be used to understand the basics of crowdfunding and how it differs from traditional borrowing. It will also provide insights into the potential audience for ideas and ventures.|
+|2.|Blockchain based crowdfunding systems<br><br>[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4330476](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4330476)|- The paper discusses a decentralized app in the Ethereum blockchain to optimize the crowdfunding process.<br><br>- The app is designed to provide a platform for entrepreneurs to raise funds and for investors to invest in projects that interest them.|This paper will be used to understand the technical aspects of blockchain-based crowdfunding platforms and how they can be optimized for project creators and backers.|
+|3.|Blockchain-Based Crowdfunding Application<br><br>[https://www.mdpi.com/2076-3387/13/6/144](https://www.mdpi.com/2076-3387/13/6/144)|- The crowdfunding application is designed to give assurance to investors.<br><br>- The platform is not just like any other application that allows people to invest their money|This paper will be used to understand how blockchain technology can enhance transparency and trust in the fundraising process. It will also provide insights into how the platform can be designed to give assurance to investors.|
+|4.|Crowdsource funding solution based on blockchain tokens<br><br>[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9651591/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9651591/)|- The paper proposes a blockchain-based crowdfunding platform that can help decentralize the funding model from companies like Kickstarter.<br><br>- The application replaces intermediaries such as Kickstarter to provide a platform for entrepreneurs to raise funds and for investors to invest in projects that interest them.|This paper will be used to understand how blockchain technology can help decentralize the funding model and how intermediaries such as Kickstarter can be replaced.|
+|5.|Evaluation of Blockchain-Based Crowdfunding Campaign Success Factors Based on VASMA-L Criteria Weighting Method<br><br>[https://opengeekslab.com/blog/blockchain-technology-in-crowdfunding/](https://opengeekslab.com/blog/blockchain-technology-in-crowdfunding/)|- The paper evaluates blockchain-based crowdfunding campaign success factors based on VASMA-L criteria weighting method.<br><br>- The paper discusses the success determinants of initial coin offerings.|This paper will be used to understand the success factors of blockchain-based crowdfunding campaigns and how they can be evaluated.|
+|6.|Crowd Funding Platform Using Blockchain<br><br>[https://ieeexplore.ieee.org/document/9640888](https://ieeexplore.ieee.org/document/9640888)|- The paper proposes a blockchain-based crowdfunding platform to address the limitations of existing crowdfunding platforms.<br><br>- The platform is designed to provide a platform where all campaign details, donations, withdrawals, and funds are stored on an open blockchain network that is accessible to everyone.|This paper will be used to understand the limitations of existing crowdfunding platforms and how blockchain technology can address them. It will also provide insights into how the platform can be designed to enhance transparency and accessibility.|
+|7.|Crowdfunding Using Blockchain Technology<br><br>[https://stackoverflow.com/questions/2149854/how-to-manually-equalize-columns-in-an-ieee-paper-if-using-bibtex](https://stackoverflow.com/questions/2149854/how-to-manually-equalize-columns-in-an-ieee-paper-if-using-bibtex)|- Crowdfunding is a new financial system that is innovative yet disruptive.<br><br>- It is a low-cost way of accessing capital, which increases the potential audience for ideas and ventures.<br><br>- Crowdfunding represents an alternative way of funding compared to traditional borrowing.|This paper will be used to understand the basics of crowdfunding and how it differs from traditional borrowing. It will also provide insights into the potential audience for ideas and ventures.|
+|8.|Blockchain based crowdfunding systems<br><br>[https://tex.stackexchange.com/questions/356520/split-long-algorithm-over-multiple-columns-in-a-springer-paper](https://tex.stackexchange.com/questions/356520/split-long-algorithm-over-multiple-columns-in-a-springer-paper)|- The paper discusses a decentralized app in the Ethereum blockchain to optimize the crowdfunding process.<br><br>- The app is designed to provide a platform for entrepreneurs to raise funds and for investors to invest in projects that interest them.|This paper will be used to understand the technical aspects of blockchain-based crowdfunding platforms and how they can be optimized for project creators and backers.|
+|9.|Evaluation of Blockchain-Based Crowdfunding Campaign Success Factors Based on VASMA-L Criteria Weighting Method<br><br>[https://ieeecss.org/publication/transactions-automatic-control](https://ieeecss.org/publication/transactions-automatic-control)|- The paper evaluates blockchain-based crowdfunding campaign success factors based on VASMA-L criteria weighting method.<br><br>- The paper discusses the success determinants of initial coin offerings.|This paper will be used to understand the success factors of blockchain-based crowdfunding campaigns and how they can be evaluated.|
+|10.|Crowd Funding Platform Using Blockchain<br><br>[https://ieeexplore.ieee.org/document/9640888](https://ieeexplore.ieee.org/document/9640888)|- The paper proposes a blockchain-based crowdfunding platform to address the limitations of existing crowdfunding platforms.<br><br>- The platform is designed to provide a platform where all campaign details, donations, withdrawals, and funds are stored on an open blockchain network that is accessible to everyone|This paper will be used to understand the limitations of existing crowdfunding platforms and how blockchain technology can address them. It will also provide insights into how the platform can be designed to enhance transparency and accessibility.|
 
-  
+## Teammates Roles <a name="team"/>
 
-### 1. Vignesh M (Front End Developer)
-
-  
+### Front End 🎨 ( ReactJs)  
+### 1. Vignesh M (Front End Developer)  
 
 As a front end developer, Vignesh's primary responsibility is to create a user-friendly and visually appealing interface for the crowdfunding platform. They will be working with React.js, a popular JavaScript library for building user interfaces, and Tailwind CSS, a utility-first CSS framework that allows developers to write cleaner and more modular code.
 
-  
-
 Vignesh's role involves designing and implementing the layout, colors, typography, and visual elements of the platform. They will also ensure that the interface is responsive, accessible, and works seamlessly across different devices and browsers. To achieve this, Vignesh will work closely with the backend developers to integrate the front end with the backend functionality, ensuring a smooth user experience.
+
 
 Some of the key tasks that Vignesh will perform include:
 
 * Designing wireframes and mockups of the platform's UI
-
 * Writing clean and efficient React.js code
-
 * Creating reusable components and modules
-
 * Integrating third-party libraries and APIs
-
 * Optimizing the front end for performance and accessibility
-
 * Collaborating with the backend developers to ensure seamless integration
 
   
+#### 2. Joseph John Philip and Sriram G (Blockchain Developer)
 
-#### 2. Sriram G (Back End Developer)
-
-  
-
-As a back end developer, Sriram's main focus is on building the server-side logic, database integration, and API connectivity for the crowdfunding platform. They will be working with several cutting-edge technologies, including Thirdweb, Solidity, and Node.js.
-
-  
-
-Sriram's role involves creating a robust and scalable backend architecture that can handle a large number of users, transactions, and data. They will design and implement the database schema, develop API endpoints, and integrate the front end with the backend. Sriram will also ensure that the platform is secure, reliable, and performs efficiently under heavy loads.
-
-  
-
-Some of the key tasks that Sriram will perform include:
-  
-
-* Setting up the development environment and toolchain
-
-* Defining the database schema and relationships
-
-* Writing Solidity smart contracts for the crowdfunding logic
-
-* Building API endpoints for funding, donations, and other features
-
-* Integrating the front end with the backend using RESTful APIs
-
-* Testing and debugging the backend code
-
-* Ensuring security and scalability of the platform
-
-  
-
-#### 3. Joseph John Philip (Blockchain Developer)
-
-  
-
-As a blockchain developer, Joseph's primary responsibility is to build and deploy smart contracts on the Ethereum blockchain that will power the crowdfunding platform. He will work closely with Sriram to ensure that the smart contracts interact seamlessly with the backend and front end.
-
-  
+As a blockchain developer, Joseph's and Sriram's primary responsibility is to build and deploy smart contracts on the Ethereum blockchain that will power the crowdfunding platform. He will work closely with Sriram to ensure that the smart contracts interact seamlessly with the backend and front end.
 
 Joseph's role involves writing, testing, and deploying smart contracts that govern the rules and logic of the crowdfunding platform. They will use Solidity, a high-level programming language for developing smart contracts, to create these contracts. Joseph will also ensure that the smart contracts are secure, auditable, and transparent, and that they adhere to best practices for blockchain development.
-
   
-
-Some of the key tasks that Joseph will perform include:
-
-  
+Some of the key tasks that Joseph and Sriram will perform include:
 
 * Researching and analyzing existing crowdfunding platforms on blockchain
-
 * Designing and developing smart contracts for various features of the platform
-
 * Testing and debugging smart contracts using Truffle Suite and other tools
-
 * Deploying smart contracts on the Ethereum testnet and mainnet
-
 * Collaborating with Sriram to integrate smart contracts with the backend
-
 * Documenting and sharing knowledge with the team about blockchain development best practices
 
-  
+
+## Workflow image showing the process of crowdfunding platform <a name="workflow"/>
+
+![](workflow.png)
+
+## Features of this project<a name="features"/>
+
+- **Create Campaigns**: Users can easily create campaigns and provide detailed descriptions about their projects, including goals, deadlines, and any additional information they deem necessary.
+    
+- **Secure and Transparent**: Leveraging the power of Web3 technology, this application ensures security and transparency throughout the entire crowdfunding process. All transactions are securely stored on the blockchain, providing an immutable record of donations.
+    
+- **Connect with Wallets**: Users can connect their Web3 wallets, such as MetaMask, to seamlessly interact with the application and make donations. This simplifies the funding process and ensures a smooth user experience.
+    
+- **Real-Time Updates**: The application provides real-time updates on the progress of each campaign, including the total funds raised and the number of supporters. This allows users to track the success of their projects and keep the community engaged.
+    
+- **Developer Earnings**: As the developer of this crowdfunding app, you receive a 2% fee from each donation made to the campaigns. This incentivizes you to continue maintaining and improving the application while supporting the growth of the crowdfunding community.
 
 # Requirements for the Site <a name="req" />
 
