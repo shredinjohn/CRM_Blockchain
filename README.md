@@ -1,6 +1,5 @@
-![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/487b6b7a-0ec1-4873-aaca-a1fc37b087d5)
 
-![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/5ef9a243-4b0b-46e0-abc3-f8c638d765b3)
+![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/cc4b8932-057d-489d-a7a5-37ab33d1fbf7)
 
 # Donaeth : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process.
 
