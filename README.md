@@ -95,7 +95,113 @@ The potential impact of such a platform extends beyond just individual projects.
 
 Now imagine a future where every crowdfunding platform operates on blockchain principles. The possibilities are endless – a world where anyone can turn their vision into reality, regardless of their background or connections. A world where the next generation of game-changing products and services emerge from the grassroots level, thanks to the collective efforts of passionate individuals from all corners of the globe.
 
-  
+## Explanation of Solidity Code <a name="sol"/>
+
+```solidity
+contract YourContractName {
+    struct Campaign {
+        address owner;
+        string title;
+        string description;
+        uint256 target;
+        uint256 deadline;
+        uint256 amountCollected;
+        string image;
+        address[] donators;
+        uint256[] donations;
+    }
+
+    Campaign[] public campaigns;
+    uint256 public numberOfCampaigns;
+
+    function createCampaign(address _owner, string memory _title, string memory _description, uint256 _target, uint256 _deadline, string memory _image) public returns (uint256) {
+        Campaign storage campaign = campaigns[numberOfCampaigns];
+
+        // Test to see if everything is ok
+        require(campaign.deadline < block.timestamp, "The deadline should be a date in the future.");
+
+        campaign.owner = _owner;
+        campaign.title = _title;
+        campaign.description = _description;
+        campaign.target = _target;
+        campaign.deadline = _deadline;
+        campaign.amountCollected = 0;
+        campaign.image = _image;
+
+        numberOfCampaigns++;
+
+        return numberOfCampaigns - 1; // Index of the created Campaign
+    }
+
+    function donateToCampaign(uint256 _id) public payable {
+        uint256 amount = msg.value;
+
+        Campaign storage campaign = campaigns[_id];
+
+        campaign.donators.push(msg.sender);
+        campaign.donations.push(amount);
+
+        (bool sent,) = payable(campaign.owner).call{value : amount}(""); // Payable requires 2 args
+
+        if (sent) {
+            campaign.amountCollected = campaign.amountCollected + amount;
+        }
+    } // Get the ID of the user who donates
+
+    function getDonators(uint256 _id) view public returns (address[] memory, uint256[] memory) { // To see who donated
+        Campaign storage campaign = campaigns[_id];
+        return (campaign.donators, campaign.donations);
+    } // To see who donated
+
+    function getCampaigns() public view returns (Campaign[] memory) {
+        Campaign[] memory _campaigns = new Campaign[](numberOfCampaigns); // Creating a new variable to store the campaigns; basically a copy of the campaigns array but the values inside the created array are empty
+
+        for (uint256 i = 0; i < numberOfCampaigns; i++) { // Storing the values of the campaigns array into the _campaigns array
+            Campaign storage campaign = campaigns[i];
+            _campaigns[i] = campaign;
+        }
+
+        return _campaigns;
+    }
+}
+```
+### Explanation  :
+
+#### `createCampaign`:
+- **Purpose**: This function is used to create a new campaign within the crowdfunding platform.
+- **Parameters**:
+  - `_owner`: Address of the campaign owner.
+  - `_title`: Title of the campaign.
+  - `_description`: Description of the campaign.
+  - `_target`: Target amount to be raised in the campaign.
+  - `_deadline`: Deadline or end date for the campaign.
+  - `_image`: Image related to the campaign (potentially a URL or reference to an image).
+- **Functionality**:
+  - Checks if the deadline specified for the campaign is in the future.
+  - If the conditions are met, it creates a new campaign with the provided details and returns the index of the created campaign.
+
+#### `donateToCampaign`:
+- **Purpose**: Allows users to donate to a specific campaign.
+- **Parameters**:
+  - `_id`: ID of the campaign to which the donation is made.
+- **Functionality**:
+  - Receives the donation amount sent with the transaction.
+  - Adds the sender's address and the donation amount to the specified campaign's records.
+  - Transfers the donation amount directly to the campaign owner and updates the total amount collected if the transfer is successful.
+
+#### `getDonators`:
+- **Purpose**: Retrieves information about the donors to a particular campaign.
+- **Parameters**:
+  - `_id`: ID of the campaign for which donor information is requested.
+- **Functionality**:
+  - Returns two arrays: one containing the addresses of the donors (`donators`) and the other containing the amounts donated (`donations`) to the specified campaign.
+
+#### `getCampaigns`:
+- **Purpose**: Fetches all the campaigns created within the platform.
+- **Functionality**:
+  - Creates a new array (`_campaigns`) to store information about the campaigns.
+  - Iterates through the existing campaigns, populating the `_campaigns` array with details about each campaign.
+  - Returns an array with details of all the campaigns created, allowing users to view information about multiple campaigns.  
 
 ### Literature Survey 📄<a name="lit"/>
 
