@@ -1,4 +1,20 @@
-# Donaeth : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process."
+# Donaeth : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process.
+
+### Table of Contents
+
+1. [Introduction](#intro)
+2. [Current Challenges and Limitations](#challenge)
+3. [How blockchain addresses these issues](#issue)
+4. [Tools we use](#tools) 🆕
+5. [Motivation for this Project](#motivation)
+6. [Blockchain Implementation](#block-implement) 🆕
+7. [Explanation of solidity code that we used](#sol) 🆕
+8. [Literature Survey](#lit) 🆕
+9. [Teammate Roles](#team) 🆕
+10. [Workflow image showing the process of crowdfunding platform](#workflow) 🆕
+11. [Requirements for the Site](#req) 🆕
+12. [References](#ref) 🆕
+
 
 ### Introduction ✨✨
   
