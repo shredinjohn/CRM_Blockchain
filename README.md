@@ -1,7 +1,7 @@
 
 ![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/cc4b8932-057d-489d-a7a5-37ab33d1fbf7)
 
-# Donaeth : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process.
+# Donaeth (Donate-Ethereum) : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process.
 
 
 ### Table of Contents
