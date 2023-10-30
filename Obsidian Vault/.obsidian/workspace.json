@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53d2f5d370d68966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solidity 🕸️.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f559964ae3e5dbef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thirdweb 🌎.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9cd712dcd9dc0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Block Chain Project/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,6 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5c305c149368c4d",
-  "lastOpenFiles": []
+  "active": "5d9cd712dcd9dc0d",
+  "lastOpenFiles": [
+    "Thirdweb 🌎.md",
+    "Requirements of the site In-depth.md",
+    "Solidity 🕸️.md",
+    "Block Chain Project/README.md"
+  ]
 }
