@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Block Chain Project/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53d2f5d370d68966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity 🕸️.md",
+                "file": "Thirdweb 🌎.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Block Chain Project/README.md",
+                "file": "Thirdweb 🌎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Block Chain Project/README.md",
+                "file": "Thirdweb 🌎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Block Chain Project/README.md"
+                "file": "Thirdweb 🌎.md"
               }
             }
           }
@@ -183,11 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d9cd712dcd9dc0d",
+  "active": "a5c305c149368c4d",
   "lastOpenFiles": [
-    "Thirdweb 🌎.md",
-    "Requirements of the site In-depth.md",
+    "System Architecture.png",
     "Solidity 🕸️.md",
-    "Block Chain Project/README.md"
+    "Block Chain Project/README.md",
+    "Review 2.md",
+    "Thirdweb 🌎.md"
   ]
 }
