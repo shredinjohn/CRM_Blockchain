@@ -1,5 +1,5 @@
 
-![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/cc4b8932-057d-489d-a7a5-37ab33d1fbf7)
+![image](https://assets-global.website-files.com/60f008ba9757da0940af288e/62608e4aec58ee6d2085f755_3WE.jpg)
 
 # Donaeth (Donate-Ethereum) : An innovative crowdfunding platform utilizing blockchain technology to empower project creators and backers while enhancing transparency and trust in the fundraising process.
 
@@ -95,8 +95,7 @@ Now imagine a future where every crowdfunding platform operates on blockchain pr
   
 ## Blockchain Implementation ⛓️ <a name="block-implement" />
 
-![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/07f28b75-3e4b-4976-9991-e83aa3178c78)
-
+![image](https://i.ibb.co/8X2B6bQ/System-Architecture.png)
 
 1. **User logs in with Metamask 🦊**: The user logs in to the web system using their Metamask account.
 2. **: The Web System** :The web system uses thirdweb infrastructure to execute the smart contract on the Ethereum network
@@ -288,7 +287,7 @@ Some of the key tasks that Joseph and Sriram will perform include:
 
 ## Workflow image showing the process of crowdfunding platform <a name="workflow"/>
 
-![image](https://github.com/shredinjohn/CRM_Blockchain/assets/94382938/237315cc-410d-4dbf-be60-21da89ce6a8b)
+![image](https://d3i71xaburhd42.cloudfront.net/f9e070e981f30907e15556fc7959f5aeb7eeb969/4-Figure2-1.png)
 
 
 ## Features of this project<a name="features"/>
