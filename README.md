@@ -287,7 +287,7 @@ Some of the key tasks that Joseph and Sriram will perform include:
 
 ## Workflow image showing the process of crowdfunding platform <a name="workflow"/>
 
-![image](workflow.png)
+![image](https://d3i71xaburhd42.cloudfront.net/f9e070e981f30907e15556fc7959f5aeb7eeb969/4-Figure2-1.png)
 
 
 ## Features of this project<a name="features"/>
