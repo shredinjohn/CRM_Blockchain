@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "dc9e8639cab6822c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "f559964ae3e5dbef",
             "type": "leaf",
             "state": {
@@ -43,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +181,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5c305c149368c4d",
+  "active": "dc9e8639cab6822c",
   "lastOpenFiles": [
     "Thirdweb 🌎.md",
     "System Architecture.png",
