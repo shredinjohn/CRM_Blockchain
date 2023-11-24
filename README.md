@@ -323,16 +323,15 @@ One important feature of the campaign page is the ability for users to contribut
 
 All of these options are solely determined by the role of the individual who has signed in.
 
-A separate branch has been created on the repository to facilitate project flow management.
+## Results :
 
-  
-| Branch | Description |
-| ------- | --------- |
-| Main | Only the stable version of code are updated to the main branch |
-| Vignesh | Finishes and Completes the frontend code for the project (eg. Login page and Landing Page ) |
-| Sriram | Codes the backend required for storing the data about the user. Quickly works on the backend begins as soon as the login page frontend finishes in the "vignesh" branch. In the meantime rest of the front end is refined in vignesh branch |
-| Joseph (Team Leader)|  Solely works on blockchain development using Thirdweb. Refines frontend and backend to maximize stability of the project  |
+The proposed solution for building a decentralized crowdfunding platform on the Ethereum blockchain using React and Thirdweb has been successfully implemented. The platform allows users to create campaigns, connect their Web3 wallets, and make donations securely and transparently. The platform also provides real-time updates on the progress of each campaign, ensuring that users can track the success of their projects and keep the community engaged.
 
+The platform has been designed with a clean and modern user interface, making it easy for users to navigate and interact with the platform. The platform also includes features such as a dashboard page, campaign page, and the ability to contribute to campaigns.
+
+The development team has used React for the frontend, Thirdweb for the backend, and Solidity for the smart contracts. The team has also ensured that the platform adheres to best practices for blockchain development, including security, transparency, and immutability.
+
+Overall, the proposed solution has successfully addressed the problem of building a decentralized crowdfunding platform on the Ethereum blockchain using React and Thirdweb. The platform provides a secure and transparent way for users to create campaigns, connect their Web3 wallets, and make donations. The platform also provides real-time updates on the progress of each campaign, ensuring that users can track the success of their projects and keep the community engaged.
   
   
 <a name="ref" />
