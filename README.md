@@ -332,8 +332,23 @@ The platform has been designed with a clean and modern user interface, making it
 The development team has used React for the frontend, Thirdweb for the backend, and Solidity for the smart contracts. The team has also ensured that the platform adheres to best practices for blockchain development, including security, transparency, and immutability.
 
 Overall, the proposed solution has successfully addressed the problem of building a decentralized crowdfunding platform on the Ethereum blockchain using React and Thirdweb. The platform provides a secure and transparent way for users to create campaigns, connect their Web3 wallets, and make donations. The platform also provides real-time updates on the progress of each campaign, ensuring that users can track the success of their projects and keep the community engaged.
-  
-  
+
+
+## Output and Smart Contract Deployment :
+
+![output1](https://drive.google.com/file/d/157wdMvgbyZKnEre3Sn1YR1clgXmKwqUf/view?usp=sharing)
+
+![output2](https://drive.google.com/file/d/1KlJxcmP8funYCjcgZDtfxcZF47qR-TGf/view?usp=sharing)
+
+![output3](https://drive.google.com/file/d/1JGo6-aZgq-EY_WkFkS_FJGnUGdzt0hq1/view?usp=sharing)
+
+![output4](https://drive.google.com/file/d/1vFdrEhL9wPREVJB35Vyq0EiQ2wX9WYRd/view?usp=sharing)
+
+
+## Webpage :
+
+![webpage](https://drive.google.com/file/d/1e5x3XvZiZLXVwvZmGal1DaB46SbW1GhJ/view?usp=sharing)
+
 <a name="ref" />
 
 ## [Reference Paper Link 1 : Crowdfunding Platform Using Blockchain Technology](https://ijirt.org/master/publishedpaper/IJIRT155716_PAPER.pdf)
