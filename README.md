@@ -347,7 +347,8 @@ Overall, the proposed solution has successfully addressed the problem of buildin
 
 ## Webpage :
 
-![webpage](https://drive.google.com/file/d/1e5x3XvZiZLXVwvZmGal1DaB46SbW1GhJ/view?usp=sharing)
+![webpage](https://drive.google.com/file/d/1e5x3XvZiZLXVwvZmGal1DaB46SbW1GhJ/view?usp=drive_link)
+
 
 <a name="ref" />
 
