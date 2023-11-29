@@ -336,18 +336,18 @@ Overall, the proposed solution has successfully addressed the problem of buildin
 
 ## Output and Smart Contract Deployment :
 
-![output1](https://drive.google.com/file/d/157wdMvgbyZKnEre3Sn1YR1clgXmKwqUf/view?usp=sharing)
+![output1](/1.jpg)
 
-![output2](https://drive.google.com/file/d/1KlJxcmP8funYCjcgZDtfxcZF47qR-TGf/view?usp=sharing)
+![output2](/2.jpg)
 
-![output3](https://drive.google.com/file/d/1JGo6-aZgq-EY_WkFkS_FJGnUGdzt0hq1/view?usp=sharing)
+![output3](/3.jpg)
 
-![output4](https://drive.google.com/file/d/1vFdrEhL9wPREVJB35Vyq0EiQ2wX9WYRd/view?usp=sharing)
+![output4](/4.jpg)
 
 
 ## Webpage :
 
-![webpage](https://drive.google.com/file/d/1e5x3XvZiZLXVwvZmGal1DaB46SbW1GhJ/view?usp=drive_link)
+![webpage](/5.jpg)
 
 
 <a name="ref" />
